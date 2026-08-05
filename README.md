@@ -15,25 +15,14 @@
 ```yaml
 Nome: Luis Miguel
 
-Cargo:
-  - Service Desk
-
 Formação:
   - Engenharia de Software
 
-Foco:
-  - Desenvolvimento Full Stack
+Habilidades:
   - Cloud Computing
-  - DevOps
   - Automação
   - Engenharia de Dados
 
-Aprendendo:
-  - AWS
-  - Kubernetes
-  - Terraform
-  - Docker
-  - CI/CD
 ```
 
 ---
@@ -58,59 +47,7 @@ Aprendendo:
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizMiguelTI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMiguelTI&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LuizMiguelTI&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LuizMiguelTI&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizMiguelTI&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LuizMiguelTI/LuizMiguelTI/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Obs.:** para essa animação funcionar, é necessário configurar um GitHub Action no repositório do seu perfil.
-
----
 
 # 🌎 Vamos nos conectar
 
@@ -124,7 +61,7 @@ Aprendendo:
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:seuemail@email.com">
+<a href="mailto:luismiguelcintrasilva180@email.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
