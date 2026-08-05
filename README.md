@@ -1,45 +1,141 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=true&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=1&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:4F46E5,100:3B82F6&text=Luis%20Miguel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Service+Desk+Analyst;Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Python+%7C+React+%7C+Docker+%7C+SQL)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=LuizMiguelTI&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
+
 </div>
 
-###
+---
 
-<p align="left">👨‍💻 Service Desk @ Tecnocomp Tecnologia e Serviços Ltda<br>📈 +1 ano de experiência em desenvolvimento<br><br>🎓 Engenharia de Software — Anhanguera (cursando)<br><br>🔠 Inglês Básico</p>
+# 👋 Sobre mim
 
-###
+```yaml
+Nome: Luis Miguel
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=true&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=1&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+Cargo:
+  - Service Desk
 
-###
+Formação:
+  - Engenharia de Software
 
-<br clear="both">
+Foco:
+  - Desenvolvimento Full Stack
+  - Cloud Computing
+  - DevOps
+  - Automação
+  - Engenharia de Dados
+
+Aprendendo:
+  - AWS
+  - Kubernetes
+  - Terraform
+  - Docker
+  - CI/CD
+```
+
+---
+
+# 🚀 Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,tailwind,postgres,mysql,docker,linux,git,github,bash,vscode,aws,azure,gcp&perline=10"/>
+
 </div>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=true&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=1&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+# ⚡ Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,postman,powershell,githubactions,vercel,netlify"/>
+
 </div>
 
-###
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizMiguelTI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMiguelTI&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=LuizMiguelTI&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LuizMiguelTI&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizMiguelTI&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LuizMiguelTI/LuizMiguelTI/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Obs.:** para essa animação funcionar, é necessário configurar um GitHub Action no repositório do seu perfil.
+
+---
+
+# 🌎 Vamos nos conectar
+
+<div align="center">
+
+<a href="https://linkedin.com/in/dev-luis-miguel-xz">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://fitmentor-beryl.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 "Code. Learn. Automate. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6C63FF,100:3B82F6"/>
+
+</div>
