@@ -35,8 +35,7 @@ const luis = {
     "Cloud",
     "DevOps",
     "Automation",
-    "Backend",
-    "Infrastructure",
+    "Developer",
     "Data Engineering"
   ],
 
@@ -79,46 +78,6 @@ const luis = {
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuizMiguelTI&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMiguelTI&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=LuizMiguelTI&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizMiguelTI&theme=tokyo-night&hide_border=true&radius=16"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LuizMiguelTI&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
 # 🔥 Current Focus
 
 - ☁️ Cloud Computing
@@ -128,7 +87,6 @@ const luis = {
 - 🔄 CI/CD
 - 🐍 Python Automation
 - 📊 SQL
-- 🖥 Linux Administration
 
 ---
 
@@ -194,7 +152,7 @@ const luis = {
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/LuizMiguelTI">
+<a href="https://github.com/luismiguelti">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
