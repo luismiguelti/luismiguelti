@@ -1,55 +1,188 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:4F46E5,100:3B82F6&text=Luis%20Miguel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,35:4F46E5,70:2563EB,100:0EA5E9&text=Luis%20Miguel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Service+Desk+Analyst;Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Python+%7C+React+%7C+Docker+%7C+SQL)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6C63FF&center=true&vCenter=true&random=false&width=900&lines=Software+Engineer+Student;Service+Desk+Analyst;Full+Stack+Developer;Cloud+%7C+DevOps+%7C+Python;Always+learning+new+technologies"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=LuizMiguelTI&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
+<p>
+
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=LuizMiguelTI&style=for-the-badge&color=6C63FF"/>
 
 </div>
 
 ---
 
-# 👋 Sobre mim
+# 👨‍💻 About Me
 
-```yaml
-Nome: Luis Miguel
+```ts
+const luis = {
+  name: "Luis Miguel",
+  role: "Service Desk Analyst",
+  education: "Software Engineering",
+  location: "Brazil 🇧🇷",
 
-Formação:
-  - Engenharia de Software
+  interests: [
+    "Cloud",
+    "DevOps",
+    "Automation",
+    "Backend",
+    "Infrastructure",
+    "Data Engineering"
+  ],
 
-Habilidades:
-  - Cloud Computing
-  - Automação
-  - Engenharia de Dados
+  currentlyLearning: [
+    "AWS",
+    "Terraform",
+    "Kubernetes",
+    "CI/CD",
+    "Python",
+    "Docker"
+  ],
 
+  motto: "Build • Automate • Improve"
+}
 ```
 
 ---
 
-# 🚀 Stack
+# ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,tailwind,postgres,mysql,docker,linux,git,github,bash,vscode,aws,azure,gcp&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,nextjs,html,css,tailwind,postgres,mysql,mongodb,docker,linux,git,github,bash,vscode,aws,azure,gcp&perline=11"/>
 
 </div>
 
 ---
 
-# ⚡ Ferramentas
+# 🚀 DevOps & Cloud
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,postman,powershell,githubactions,vercel,netlify"/>
+| Cloud | Containers | IaC | CI/CD | Monitoring |
+|:------:|:----------:|:---:|:-----:|:----------:|
+| AWS | Docker | Terraform | GitHub Actions | Prometheus |
+| Azure | Kubernetes | Ansible | Jenkins | Grafana |
+| GCP | Linux | Bash | Azure DevOps | ELK |
 
 </div>
 
 ---
 
+# 📊 GitHub Analytics
 
+<div align="center">
 
-# 🌎 Vamos nos conectar
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuizMiguelTI&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMiguelTI&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=LuizMiguelTI&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizMiguelTI&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LuizMiguelTI&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🔥 Current Focus
+
+- ☁️ Cloud Computing
+- 🐳 Docker
+- ☸️ Kubernetes
+- ⚙️ Terraform
+- 🔄 CI/CD
+- 🐍 Python Automation
+- 📊 SQL
+- 🖥 Linux Administration
+
+---
+
+# 💼 Featured Skills
+
+<table>
+<tr>
+
+<td width="50%">
+
+### Development
+
+- Python
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Express
+- SQL
+- REST APIs
+
+</td>
+
+<td width="50%">
+
+### Infrastructure
+
+- Docker
+- Linux
+- Git
+- GitHub
+- AWS
+- Azure
+- GCP
+- Terraform
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LuizMiguelTI/LuizMiguelTI/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect with Me
 
 <div align="center">
 
@@ -61,8 +194,8 @@ Habilidades:
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:luismiguelcintrasilva180@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/LuizMiguelTI">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -71,8 +204,8 @@ Habilidades:
 
 <div align="center">
 
-## 💻 "Code. Learn. Automate. Repeat."
+### 💡 *"Technology is best when it empowers people."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6C63FF,100:3B82F6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:6C63FF,35:4F46E5,70:2563EB,100:0EA5E9"/>
 
 </div>
