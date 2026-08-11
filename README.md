@@ -18,4 +18,4 @@
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/dev-luis-miguel-xz)
 * 📧 [luismiguelcintrasilva180@gmail.com](mailto:luismiguelcintrasilva180@gmail.com)
-<a href="./CV-Luis-Miguel.pdf"> <img src="https://img.shields.io/badge/View%20CV-Download%20Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a>
+* <a href="./CV-Luis-Miguel.pdf"> <img src="https://img.shields.io/badge/View%20CV-Download%20Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a>
