@@ -14,10 +14,6 @@
   🎓 Check out my certifications and professional achievements on my LinkedIn.
 </p>
 
-<a href="https://www.linkedin.com/in/dev-luis-miguel-xz">
-  <img src="https://img.shields.io/badge/LinkedIn-Certifications-0A66C2?style=for-the-badge" />
-</a>
-
 ### 📫 Reach me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/dev-luis-miguel-xz)
