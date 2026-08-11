@@ -15,7 +15,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/dev-luis-miguel-xz">
-  <img src="https://img.shields.io/badge/LinkedIn-Certifications-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Certifications-0A66C2?style=for-the-badge" />
 </a>
 
 ### 📫 Reach me
