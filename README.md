@@ -5,7 +5,7 @@
 ### Skills and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,aws,docker,kubernetes,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,aws,azure,gcp,git,github,githubactions" />
 </p>
 
 ### Certifications
