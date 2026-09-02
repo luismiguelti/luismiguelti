@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Luis Miguel!
 
-`Software Engineer @Tecnocomp` · `2+ Years of Experience`
+`Software Engineer` · ` IT Intern @Tecnocomp ` `2+ Years of Experience`
 
 ### Skills and Tools
 
